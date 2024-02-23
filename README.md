@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Frontend(HTML,CSS,Bootstrap,JavaScript,Angular,REACTjs)**
+- 🌱 I’m currently learning **Frontend(HTML,CSS,Bootstrap,JavaScript,REACTjs)**
 
 - 📫 How to reach me **sanket1rakhewar@gmail.com**
 
